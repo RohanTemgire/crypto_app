@@ -1,16 +1,7 @@
 # crypto_app
 
-A new Flutter project.
+My initial try to build a Defy applicaiton, using the web3 dart package.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![plot](./assets/images/1.jpeg)
+![plot](./assets/images/2.jpeg)
+![plot](./assets/images/3.jpeg)
